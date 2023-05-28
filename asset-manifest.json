@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextCon-React/static/css/main.3fd97d96.css",
+    "main.js": "/TextCon-React/static/js/main.b784273a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextCon-React/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TextCon-React/index.html",
+    "main.3fd97d96.css.map": "/TextCon-React/static/css/main.3fd97d96.css.map",
+    "main.b784273a.js.map": "/TextCon-React/static/js/main.b784273a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextCon-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd97d96.css",
+    "static/js/main.b784273a.js"
+  ]
+}
